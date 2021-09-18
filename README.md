@@ -1,1 +1,1 @@
-I'm currently doing a project called Odin Recipes as part of learning The Odin Project (Webdev). The goal is to put all of the HTML knowledge I've been acquiring so far into practice.
+A simple project as a part of The Odin Project learning path (webdev) and to also test out my acquired knowledge of HTML so far (pretty much the basics so far really).
