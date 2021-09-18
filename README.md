@@ -1,1 +1,1 @@
-A simple project as a part of The Odin Project learning path (which teaches web development). The purpose of this project is test out my acquired knowledge of HTML so far (HTML basics). You can check out the live project at https://rytismark.github.io/odin-recipes/
+A simple project called "Odin recipes" as a part of The Odin Project learning path (which teaches web development). The purpose of this project is to test out my acquired knowledge of HTML so far (HTML basics). You can check out the live project at https://rytismark.github.io/odin-recipes/
