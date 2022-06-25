@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    color: purple;
+}
+
+.body {
+    background-color: palegoldenrod;
+}
+
+.listing {
+    color: red;
+    text-align: center;
+    list-style: inside;
+}
